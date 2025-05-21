@@ -1,0 +1,23 @@
+{
+  "name": "thismustbetheplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-game-bureau/ThisMustBeThePlace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-game-bureau/ThisMustBeThePlace/issues"
+  },
+  "homepage": "https://github.com/the-game-bureau/ThisMustBeThePlace#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
